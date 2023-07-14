@@ -1,8 +1,8 @@
 # CodeCon-Team-8
 <br>Team Details
 Inspiration: <br>
-Team Name: HackWizards Team
-Frontend: Manitej,Aryan,Rohith
+Team Name: HackWizards Team<br>
+Frontend: Manitej,Aryan,Rohith<br>
 Backend: Akhil,Yatish<br>
 What it does: <br>
 HireHub is a job board platform that connects job seekers with employers. It provides a user-friendly interface for job seekers to search and apply for relevant job opportunities. Employers can post job listings and manage applications efficiently. HireHub simplifies the hiring process, facilitating the connection between talented individuals and organizations looking to hire.<br>
